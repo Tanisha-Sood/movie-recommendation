@@ -1,9 +1,11 @@
 Movie Recommendation using Machine Learning
 
-Objective
+Objective :
+
 To recommend movies based on user emotions or genres by fetching titles from IMDb using web scraping techniques.
 
-Methodology
+Methodology: 
+
 Mapping Emotions to URLs: A predefined dictionary links emotions (Drama, Action, etc.) to IMDb genre pages.
 
 Web Scraping:
